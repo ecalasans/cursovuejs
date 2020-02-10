@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="993c4adf-b0a7-4797-b1ab-edb395f1a918" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WzxGHOPaWX7bgbRlw3sZoEq6te" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="993c4adf-b0a7-4797-b1ab-edb395f1a918" name="Default Changelist" comment="" />
+      <created>1580166126182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580166126182</updated>
+      <workItem from="1580166127590" duration="21000" />
+      <workItem from="1581062695468" duration="14000" />
+      <workItem from="1581062722779" duration="2329000" />
+      <workItem from="1581292438348" duration="2177000" />
+    </task>
+    <task id="LOCAL-00001" summary="Desafio 03 concluído.">
+      <created>1581295009966</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581295009967</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Desafio 03 concluído.">
+      <created>1581295066840</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581295066840</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Desafio 03 concluído." />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafio 03 concluído." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="328" y="146" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581062704415">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="328" y="146" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1280.777@0.23.1280.777" timestamp="1581062704415" />
+    <state x="205" y="119" width="860" height="810" key="CommitChangelistDialog2" timestamp="1581295066773">
+      <screen x="0" y="27" width="1280" height="997" />
+    </state>
+    <state x="205" y="119" width="860" height="810" key="CommitChangelistDialog2/0.27.1280.997/1280.0.1280.1024@0.27.1280.997" timestamp="1581295066773" />
+    <state x="149" y="62" key="SettingsEditor" timestamp="1581295136024">
+      <screen x="0" y="27" width="1280" height="997" />
+    </state>
+    <state x="149" y="50" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1581063244712" />
+    <state x="149" y="62" key="SettingsEditor/0.27.1280.997/1280.0.1280.1024@0.27.1280.997" timestamp="1581295136024" />
+    <state x="235" y="260" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1581295068424">
+      <screen x="0" y="27" width="1280" height="997" />
+    </state>
+    <state x="235" y="260" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1280.997/1280.0.1280.1024@0.27.1280.997" timestamp="1581295068424" />
+  </component>
+</project>
