@@ -1,0 +1,23 @@
+<meta charset="UTF-8">
+<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+
+<div id="app">
+    <ul>
+        <li v-for="cor in cores" :style="{'background-color':  cor}">{{ cor }}</li>
+    </ul>
+</div>
+
+<script>
+    new Vue({
+        el: '#app',
+        data: {
+            cores:  ['red', 'green', 'blue', 'yellow'],
+            pessoas:  [
+                {nome:  'Eric', idade:  '43'},
+                {nome:  'Jeciane', idade:  '43'},
+                {nome:  'Erika', idade:  '15'},
+                {nome:  'Daniel', idade:  '11'},
+            ]
+        }
+    })
+</script>
